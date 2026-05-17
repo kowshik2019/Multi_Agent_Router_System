@@ -45,7 +45,10 @@ Python · OpenAI GPT-4o-mini · FAISS · sentence-transformers · LangChain · R
 #### 🚀 Quick Start:
 ```bash
 pip install -r P1_requirements.txt
-echo "OPENAI_API_KEY=your_key" > .env
+In your .env file
+OPEN_API_KEY = "Your_OPEN_API_KEY_HERE"
+model = "gpt-4o-mini"
+
 python P1_main.py           # interactive
 python P1_main.py --demo    # batch demo
 ```
