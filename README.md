@@ -1,7 +1,6 @@
 # PROJECT 1 — Multi-Agent Router System
-# ═══════════════════════════════════════════════════════════════
 
-## Short Description (GitHub About / Tagline — 1 line):
+## Short Description:
 Enterprise-grade multi-agent AI system that intelligently classifies and routes queries to Sales, HR, or Operations using FAISS vector search + LLM orchestration.
 
 ---
