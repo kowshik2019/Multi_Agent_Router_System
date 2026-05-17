@@ -63,3 +63,9 @@ python P1_main.py --demo    # batch demo
 
 #### 🔧 Extend It:
 Adding a new department takes 4 steps: add knowledge docs to `P1_settings.py`, add a system prompt, create an agent class, and register it in `P1_router_agent.py`. The FAISS index auto-rebuilds.
+
+Expected Output:
+
+<img width="1323" height="789" alt="image" src="https://github.com/user-attachments/assets/819f535b-a302-45e4-9f62-7cf81e723409" />
+
+
